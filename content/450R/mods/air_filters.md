@@ -16,7 +16,7 @@ If you choose to branch out, the KTM 450/690 RFR filter should work fine.
   - Filter is standard fit but plates are slightly smaller so require some modification (not really worth it).
 
 ![Air Filter Comparison](/img/450R_air_filter_compare.jpg)
-LtoR - stock, twin air, eBay, funnel, xl filter skin. (grommets appropriated from stock).
+Left to right: Stock, twin air, eBay, funnel, xl filter skin. (grommets appropriated from stock).
 
 First view of the EURO 5 airbox assembly:
 
