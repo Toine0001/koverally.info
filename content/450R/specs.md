@@ -43,8 +43,8 @@ All first generation variants share these specs.
 
 |                  | 450 Rally - High       | 450 Rally - Low        | 450 Rally Pro         |
 | ---------------- | ---------------------- | ---------------------- | --------------------- |
-| Max Power        | 51 hp @ 9500 rpm       | 51 hp @ 9500 rpm       | 54.4 hp @ 9500 rpm    |
-| Max Torque       | 29.5 ft-lbs @ 7000 rpm | 29.5 ft-lbs @ 7000 rpm | 31 ft-lbs @ 7000 rpm  |
+| Max Power        | 51 hp @ 9500 rpm (Euro5 42 hp @ 8500 rpm)      | 51 hp @ 9500 rpm (Euro5 42 hp @ 8500 rpm)      | 54.4 hp @ 9500 rpm    |
+| Max Torque       | 29.5 ft-lbs @ 7000 rpm (Euro5 25,8 ft-lbs @ 6500 rpm)| 29.5 ft-lbs @ 7000 rpm (Euro5 25,8 ft-lbs @ 6500 rpm) | 31 ft-lbs @ 7000 rpm  |
 | Brakes           | Selectable ABS         | Selectable ABS         | NO ABS                |
 | Seat Height      | 37.8 Inches            | 36 Inches              | 37.8 Inches           |
 | Ground Clearance | 12.2"                  | 10.6"                  | 12.2"                 |
